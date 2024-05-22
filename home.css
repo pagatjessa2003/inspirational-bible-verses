@@ -872,7 +872,7 @@ nav ul li:hover::after {
     margin-top: 1cm;
     background: white;
     width: 90%;
-    height: 60vh;
+    height: auto;
     border-radius: 12px;
     display: flex;
     flex-direction: column;
